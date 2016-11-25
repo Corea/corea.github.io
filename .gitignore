@@ -1,0 +1,17 @@
+_site
+.sass-cache
+.jekyll-metadata
+
+
+# Vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+
+Session.vim
+
+.netrwhist
+*~
+
+
+# Rubygem
+Gemfile.lock
